@@ -1,0 +1,5 @@
+tests/adminKeys/*
+tests/userKeys/*
+tests/contractInfo/*
+tests/logs
+.DS_Store
